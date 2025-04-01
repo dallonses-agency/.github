@@ -3,9 +3,13 @@
 ## What type of PR is this? (only keep the ones that apply)
 
 - Feature
-- Bug Fix
+- Fix
+- Docs
+- Test
+- Chore
+- Build
+- Style
 - Refactor
-- Documentation Update
 - Other (please describe)
 
 ## Related Jira Issue
