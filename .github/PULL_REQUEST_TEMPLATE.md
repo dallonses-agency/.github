@@ -1,4 +1,5 @@
-<!-- + Describe what this PR does. What changes are made to the code? Focus on the implementation details, not the feature itself. + -->
+Describe what this PR does. What changes are made to the code?
+Focus on the implementation details, not the feature itself.
 
 ## What type of PR is this? (only keep the ones that apply)
 
