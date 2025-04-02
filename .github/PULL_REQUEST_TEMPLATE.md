@@ -25,7 +25,7 @@ images for UI changes._
 
 ## Checklist
 
-Mark all that apply with an `x`.
+<!-- + Mark all that apply with an `x`. -->
 
 - [ ] I have tested my code to the best of my ability.
 - [ ] I have checked against the requirements and acceptance criteria.
